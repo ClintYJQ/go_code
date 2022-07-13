@@ -1,0 +1,12 @@
+[golbal]
+Port = 8080
+
+[redis]
+Addr = "localhost:6379"
+Passwd = ""
+DB = 0
+
+[mysql]
+URL = "root:130831@(192.168.177.1)/name_list"
+
+
